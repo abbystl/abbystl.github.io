@@ -6,8 +6,8 @@ body {
   }
   
   header {
-    background-color: #d202ee;
-    color: black;
+    background-color: black;
+    color: purple;
     padding: 20px;
   }
   
@@ -41,6 +41,6 @@ body {
   footer {
     text-align: center;
     padding: 20px;
-    background-color: hwb(0 0% 100%);
+    background-color:  black;
     color: lightblue;
   }
