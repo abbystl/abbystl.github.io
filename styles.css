@@ -3,11 +3,12 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
-    background-color: purple;
+    background-color: white;
     color: black 
   }
   
   header {
+    font-family: Bold;
     background-color: black;
     color: rgb(252, 0, 138);
     padding: 20px;
@@ -27,7 +28,7 @@ body {
   nav ul li a {
     text-decoration: none;
     color: hsl(308, 88%, 43%);
-    font: bold
+    font-family: bold;
 
   }
   
@@ -46,5 +47,5 @@ body {
     padding: 20px;
     background-color:  black;
     color: hsl(308, 88%, 43%);
-    font: bold
+    font-family: bold;
   }
