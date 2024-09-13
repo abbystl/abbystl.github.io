@@ -8,7 +8,6 @@ body {
   }
   
   header {
-    font-family: Bold;
     background-color: black;
     color: rgb(252, 0, 138);
     padding: 20px;
@@ -28,7 +27,7 @@ body {
   nav ul li a {
     text-decoration: none;
     color: hsl(308, 88%, 43%);
-    font-family: bold;
+    font: bold
 
   }
   
@@ -47,5 +46,5 @@ body {
     padding: 20px;
     background-color:  black;
     color: hsl(308, 88%, 43%);
-    font-family: bold;
+    font: bold
   }
