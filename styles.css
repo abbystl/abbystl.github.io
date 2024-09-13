@@ -1,8 +1,9 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
+    letter-spacing: 1.5;
   }
   
   header {
@@ -34,7 +35,7 @@ body {
   }
   
   .project {
-    border: 1px solid #ccc;
+    border: 1px solid #f89de1;
     padding: 20px;
     margin-bottom: 20px;
   }
